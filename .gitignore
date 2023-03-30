@@ -1,7 +1,58 @@
-/astyle-extension/AStyleExtension/bin
-/astyle-extension/AStyleExtension/obj
-/astyle-extension/*.suo
-/astyle-extension/*.user
-/astyle-extension/AStyleExtension/*.user
-packages
+/astyle2022/bin
+/astyle2022/obj
+/astyle2022/*.suo
+/astyle2022/*.user
+/astyle_test_dll/obj
+/AStyle3.1/build/vs2022/AStyle/obj
+/AStyle3.1/build/vs2022/AStyle/x64
+/AStyle3.1/build/vs2022/AStyle Dll/obj
+/AStyle3.1/build/vs2022/AStyle Dll/x64
 .vs
+
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+*.iobj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+#*.so
+#*.dylib
+#*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+/bin/Debug/redisservice.ilk
+/build/redisservice.dir/obj/Debug/redisservice.tlog/CL.command.1.tlog
+*.tlog
+*.log
+*.suo
+*.pdb
+*.ipdb
+*.user
+*.ilk
+*.db
+*.opendb
+*.cache
+*.FileListAbsolute.txt
+*.exe.config
