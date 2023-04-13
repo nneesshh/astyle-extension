@@ -38,8 +38,8 @@
     </Commands>
 
     <Symbols>
-        <GuidSymbol name="GuidPkg" value="{6b52ccde-8ae4-4233-bccd-6b9b0ba06a56}" />
-        <GuidSymbol name="GuidCmdSet" value="{b507eff0-0667-4d9c-865f-37557da05594}">
+        <GuidSymbol name="GuidPkg" value="{63a7f3e9-2674-4c53-ae69-015011800a3e}" />
+        <GuidSymbol name="GuidCmdSet" value="{334dc68f-6dce-4baa-86df-b9e2856fdccd}">
             <IDSymbol name="TopLevelMenuGroup" value="0x1020" />
             <IDSymbol name="FormatDocumentCommand" value="0x0100" />
             <IDSymbol name="FormatSelectionCommand" value="0x110" />

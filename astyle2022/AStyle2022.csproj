@@ -106,7 +106,13 @@
     <PackageReference Include="Microsoft.VSSDK.BuildTools" Version="17.5.4072" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="AStyleExtension.vsct" />
+    <VSCTCompile Include="AStyle2022.vsct">
+      <ResourceName>Menus.ctmenu</ResourceName>
+      <SubType>Designer</SubType>
+      <Generator>VsctGenerator</Generator>
+    </VSCTCompile>
+  </ItemGroup>
+  <ItemGroup>
     <Content Include="dll\AStyle31.dll">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
